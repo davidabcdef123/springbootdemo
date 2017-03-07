@@ -10,6 +10,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>springboottest1</module>
+        <module>springbootmybatis</module>
+        <module>springbootredis</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
