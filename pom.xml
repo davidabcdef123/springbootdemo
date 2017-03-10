@@ -12,6 +12,7 @@
         <module>springboottest1</module>
         <module>springbootmybatis</module>
         <module>springbootredis</module>
+        <module>springbootconf</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
